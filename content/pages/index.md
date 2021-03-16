@@ -327,7 +327,7 @@ sections:
     background_color: secondary
 seo:
   title: Mojicraft
-  description: The preview of the DIY theme
+  description: 'We create digital avatars '
   extra:
     - name: 'og:type'
       value: website
