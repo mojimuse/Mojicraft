@@ -2,8 +2,8 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
-    subtitle: Optional hero section subtitle
+    title: Welcome to Mojicraft
+    subtitle: We create digital avatars.
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
@@ -242,6 +242,20 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: secondary
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    features: []
+    feature_padding_vert: medium
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: features_section
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     content: >-
@@ -326,8 +340,8 @@ sections:
     padding_bottom: large
     background_color: secondary
 seo:
-  title: Stackbit DIY Theme
-  description: The preview of the DIY theme
+  title: Mojicraft
+  description: 'We create digital avatars '
   extra:
     - name: 'og:type'
       value: website
