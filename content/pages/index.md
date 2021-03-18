@@ -42,7 +42,7 @@ sections:
       - image: images/logo-4.svg
         image_alt: Sanity logo
         image_align: center
-      - image: images/desmond-eagle.jpg
+      - image: images/logo-7.svg
         image_alt: DatoCMS logo
         image_align: center
       - image: images/logo-6.svg
