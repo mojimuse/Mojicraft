@@ -2,11 +2,14 @@
 title: Home
 sections:
   - type: hero_section
-    title: Welcome to Mojicraft
-    subtitle: We create digital avatars.
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    title: Welcome Mojicraft
+    subtitle: Creating Avatars
+    content: >
+      Digital avatar's can be imagined countless ways.
+
+
+      We create your ideas and help represent the character or MOJI's you dream
+      of.
     actions:
       - label: Try Free
         url: /pricing
@@ -39,7 +42,7 @@ sections:
       - image: images/logo-4.svg
         image_alt: Sanity logo
         image_align: center
-      - image: images/logo-5.svg
+      - image: images/desmond-eagle.jpg
         image_alt: DatoCMS logo
         image_align: center
       - image: images/logo-6.svg
@@ -256,22 +259,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
   - type: grid_section
     title: Team Section
     subtitle: Grid Section Example
@@ -303,27 +290,6 @@ sections:
     grid_cols: four
     align: center
     background_color: secondary
-  - type: blog_feed_section
-    title: What's New
-    subtitle: Blog Feed Section Example
-    actions:
-      - label: View All
-        url: /blog
-        style: primary
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: true
-    recent_count: 3
-    show_image: true
-    show_date: true
-    show_categories: true
-    show_author: true
-    show_excerpt: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     content: >-
