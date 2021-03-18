@@ -5,8 +5,10 @@ sections:
     title: Welcome Mojicraft
     subtitle: Creating Avatars
     content: >
-      Digital avatar's can be imagined countless ways. We create your ideas and
-      help represent the character or MOJI's you dream of.
+      Digital avatar's can be imagined countless ways. 
+
+      We create your ideas and help represent the character or MOJI's you dream
+      of.
     actions:
       - label: Try Free
         url: /pricing
