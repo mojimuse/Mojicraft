@@ -4,10 +4,12 @@ sections:
   - type: hero_section
     title: Welcome to Mojicraft
     subtitle: We create digital identity.
-    content: |
+    content: >
       Digital avatar's can be imagined countless ways.
 
-      We create your ideas and help represent the character MOJI's you dream of.
+
+      We create your digital persona with art and help represent the character
+      MOJI's you dream of.
     actions:
       - label: Try Free
         url: /pricing
