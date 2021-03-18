@@ -9,7 +9,7 @@ sections:
 
 
       We create your digital persona with art and help represent the character
-      MOJI's you dream of.
+      moji's you dream of.
     actions:
       - label: Contact Us
         url: /pricing
