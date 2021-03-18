@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome Mojicraft
-    subtitle: We create your online character
+    subtitle: Creating Avatars
     content: |2+
        A digital avatar can be imagined countless ways. We create your ideas and help represent the character or MOJI's you dream of.
 
