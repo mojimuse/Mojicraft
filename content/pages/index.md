@@ -4,9 +4,11 @@ sections:
   - type: hero_section
     title: Welcome Mojicraft
     subtitle: We create digital avatars.
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Creating digital identity in 2D and 3D form. A digital avatar can be
+      imagined countless ways. We create your ideas and who you want to
+      represent. Create yourself, a squishy monster...or anything at
+      Mojicraft.com
     actions:
       - label: Try Free
         url: /pricing
