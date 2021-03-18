@@ -4,13 +4,9 @@ sections:
   - type: hero_section
     title: Welcome Mojicraft
     subtitle: We create your online character
-    content: >
-      Mojicraft creates digital identity in 2D and 3D form. A digital avatar can
-      be imagined countless ways. At mojicraft, we create your ideas and help
-      represent your character or MOJI's you dream of.
+    content: |2+
+       A digital avatar can be imagined countless ways. We create your ideas and help represent the character or MOJI's you dream of.
 
-
-      2021 is the year of the Avatar
     actions:
       - label: Try Free
         url: /pricing
