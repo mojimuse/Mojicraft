@@ -11,7 +11,7 @@ sections:
       We create your digital persona with art and help represent the character
       MOJI's you dream of.
     actions:
-      - label: Try Free
+      - label: Contact Us
         url: /pricing
         style: primary
       - label: Learn More
