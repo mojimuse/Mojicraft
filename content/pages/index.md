@@ -8,8 +8,8 @@ sections:
       Digital avatar's can be imagined countless ways.
 
 
-      We help create your avatar with art and digital media and help represent
-      the character "moji's" you dream of.
+      We help create your avatar with digtal media and help represent the
+      character "moji's" you dream of.
     actions:
       - label: Contact Us
         url: /pricing
