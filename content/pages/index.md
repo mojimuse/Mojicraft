@@ -6,9 +6,8 @@ sections:
     subtitle: We create digital avatars.
     content: >
       Creating digital identity in 2D and 3D form. A digital avatar can be
-      imagined countless ways. We create your ideas and who you want to
-      represent. Create yourself, a squishy monster...or anything at
-      Mojicraft.com
+      imagined countless ways. We create your ideas and how you want to protray
+      a character or MOJI. Start creating at Mojicraft.com
     actions:
       - label: Try Free
         url: /pricing
