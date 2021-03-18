@@ -10,8 +10,7 @@ sections:
       represent your character or MOJI's you dream of.
 
 
-
-      We create characters and digital identity. Welcome to Mojicraft!
+      We create characters and digital identity.
     actions:
       - label: Try Free
         url: /pricing
