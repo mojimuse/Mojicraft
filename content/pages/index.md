@@ -2,16 +2,16 @@
 title: Home
 sections:
   - type: hero_section
-    title: Welcome Mojicraft
-    subtitle: Creating Avatars
-    content: >
+    title: Welcome to Mojicraft
+    subtitle: We create digital identity.
+    content: |
       Digital avatar's can be imagined countless ways.
 
+      We help create your avatar with digtal media. 
 
-      We create your ideas and help represent the character or MOJI's you dream
-      of.
+      We help represent the character "moji's" you dream of.
     actions:
-      - label: Try Free
+      - label: Contact Us
         url: /pricing
         style: primary
       - label: Learn More
@@ -26,7 +26,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Image Grid
+    title: Portfolio
     subtitle: Grid Section Example
     align: center
     grid_items:
@@ -42,7 +42,7 @@ sections:
       - image: images/logo-4.svg
         image_alt: Sanity logo
         image_align: center
-      - image: images/desmond-eagle.jpg
+      - image: images/logo-7.svg
         image_alt: DatoCMS logo
         image_align: center
       - image: images/logo-6.svg
@@ -197,69 +197,6 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Reviews Section
-    subtitle: Grid Section Example
-    grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Hanson Deck,** *App Developer, Studio*
-        image: images/hanson-deck.png
-        image_alt: Hanson Deck
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Miles Tone,** *CEO, Studio*
-        image: images/miles-tone.png
-        image_alt: Miles Tone
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Eleanor Carr,** *CTO, Studio*
-        image: images/eleanor-carr.png
-        image_alt: Eleanor Carr
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Gordon Norman,** *Web Designer, Studio*
-        image: images/gordon-norman.png
-        image_alt: Gordon Norman
-        image_position: left
-        image_width: twenty-five
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: large
-    align: center
-    background_color: secondary
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
-    features: []
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
-  - type: grid_section
     title: Team Section
     subtitle: Grid Section Example
     actions:
@@ -289,21 +226,6 @@ sections:
         image_position: top
     grid_cols: four
     align: center
-    background_color: secondary
-  - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-    actions:
-      - label: Button
-        url: /pricing
-        style: primary
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
     background_color: secondary
 seo:
   title: Mojicraft
