@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome Mojicraft
-    subtitle: We create digital avatars.
+    subtitle: We create your online character
     content: >
       Creating digital identity in 2D and 3D form. A digital avatar can be
       imagined countless ways. At mojicraft, we create your ideas and help
