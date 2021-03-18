@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Welcome Mojicraft
+    title: Welcome to Mojicraft
     subtitle: We create digital identity.
     content: >
       Digital avatar's can be imagined countless ways.
